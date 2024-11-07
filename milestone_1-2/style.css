@@ -1,0 +1,91 @@
+body {
+    margin: 10px;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+.main-container{
+    display: flex;
+    background-color: rgba(250, 235, 215, 0.945);
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+}
+.left-side{
+    width: 28%;
+    background-color: black;
+    color: rgba(250, 235, 215, 0.945);
+}
+img{
+    width: 180px;
+    height: 180px;
+    margin-left: 90px;
+    margin-top: 30px;
+    border-radius: 50%;
+    box-shadow: 0 0 20PX goldenrod;
+}    
+h1{
+    color: rgb(218, 165, 32);
+    font-size: 3rem;
+    margin-bottom: 0%;
+    margin-left: 250px;
+    margin-top: 60px;
+}
+h2{
+    margin-left: 320px;
+    margin-top: 0%;
+}
+h3{
+    font-size: bold;
+    width: 250px;
+    padding: 2%;
+    margin: 30px 0 10px;
+    color: rgba(250, 235, 215, 0.945);
+    box-shadow: 0 0 15px goldenrod;
+    /* border: 2px solid goldenrod; */
+    border-radius: 15px;
+    box-shadow: burlywood;
+    margin-left: 10px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+p{
+    text-align: justify;
+    width: 350px;
+    margin-left: 10px;
+}
+
+.right-headings{
+    color: black;
+    border: 2px solid goldenrod;
+    width: auto;
+    box-shadow:0 0 15px goldenrod;
+}
+.right-para{
+    text-align: justify;
+    width: 350px;
+    margin-left: 10px;
+}
+#toggle-skills{
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    background-color: goldenrod;
+    color: whitesmoke;
+    font-size: 1rem;
+    border: 2px solid goldenrod;
+    box-shadow: 0 0 15px goldenrod;
+    border-radius: 15px;
+}
+#toggle-experience{
+    width: 250px;
+    height: 40px;
+    margin: 10px;
+    background-color: goldenrod;
+    color: whitesmoke;
+    font-size: 1rem;
+    border: 2px solid goldenrod;
+    box-shadow: 0 0 15px goldenrod;
+    border-radius: 15px;
+}
